@@ -1,0 +1,58 @@
+﻿  Main.cpp
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\CTDL.h(22): error C2380: type(s) preceding 'Hour' (constructor with return type, or illegal redefinition of current class-name?)
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyLT.h(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyLT.h(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyLT.h(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyLT.h(120): warning C4018: '>': signed/unsigned mismatch
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyLT.h(140): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyLT.h(274): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyLT.h(278): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyLT.h(306): warning C4551: function call missing argument list
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\DoHoa.h(6): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(673): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(675): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(678): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(690): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(692): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(695): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(714): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(715): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(717): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(725): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(734): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(735): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(737): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(746): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(748): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(751): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(785): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(787): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(790): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(816): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(818): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(821): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(827): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(829): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\XuLyNhap.h(832): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(472): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(494): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(536): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(555): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(568): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(581): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(971): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(1008): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(1026): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(1043): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(1056): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(2247): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(2280): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(2301): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(2398): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(2400): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\ChucNang.h(2403): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\LoadFile.h(82): error C2274: 'function-style cast': illegal as right side of '.' operator
+c:\users\nguyen tran\documents\visual studio 2017\projects\quanlymaybay\quanlymaybay\LoadFile.h(173): error C2274: 'function-style cast': illegal as right side of '.' operator

@@ -1,0 +1,22 @@
+﻿  Main.cpp
+e:\hockyhe\quanlymaybay\quanlymaybay\xulylt.h(2): warning C4005: 'MAX_TIME': macro redefinition
+  e:\hockyhe\quanlymaybay\quanlymaybay\ctdl.h(13): note: see previous definition of 'MAX_TIME'
+e:\hockyhe\quanlymaybay\quanlymaybay\xulylt.h(85): warning C4018: '<': signed/unsigned mismatch
+e:\hockyhe\quanlymaybay\quanlymaybay\xulylt.h(94): warning C4018: '<': signed/unsigned mismatch
+e:\hockyhe\quanlymaybay\quanlymaybay\xulylt.h(102): warning C4018: '<': signed/unsigned mismatch
+e:\hockyhe\quanlymaybay\quanlymaybay\xulylt.h(121): warning C4018: '>': signed/unsigned mismatch
+e:\hockyhe\quanlymaybay\quanlymaybay\xulylt.h(288): warning C4551: function call missing argument list
+e:\hockyhe\quanlymaybay\quanlymaybay\dohoa.h(6): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+e:\hockyhe\quanlymaybay\quanlymaybay\xulynhap.h(88): warning C4018: '<': signed/unsigned mismatch
+e:\hockyhe\quanlymaybay\quanlymaybay\xulynhap.h(100): warning C4018: '<': signed/unsigned mismatch
+e:\hockyhe\quanlymaybay\quanlymaybay\xulynhap.h(117): warning C4018: '<': signed/unsigned mismatch
+e:\hockyhe\quanlymaybay\quanlymaybay\xulynhap.h(84): warning C4101: 'c': unreferenced local variable
+e:\hockyhe\quanlymaybay\quanlymaybay\chuyenbay.h(93): warning C4101: 'NgayHienTai': unreferenced local variable
+e:\hockyhe\quanlymaybay\quanlymaybay\chuyenbay.h(94): warning C4101: 'GioHienTai': unreferenced local variable
+e:\hockyhe\quanlymaybay\quanlymaybay\loadfile.h(75): warning C4018: '<': signed/unsigned mismatch
+e:\hockyhe\quanlymaybay\quanlymaybay\datve.h(339): warning C4102: 'b': unreferenced label
+e:\hockyhe\quanlymaybay\quanlymaybay\xulylt.h(39): warning C4715: 'Chuyen1SoSangKiTu': not all control paths return a value
+e:\hockyhe\quanlymaybay\quanlymaybay\xulylt.h(202): warning C4715: 'ChuyenThang': not all control paths return a value
+e:\hockyhe\quanlymaybay\quanlymaybay\thongke.h(98): warning C4715: 'LayThongTinKHTheoCMND': not all control paths return a value
+e:\hockyhe\quanlymaybay\quanlymaybay\hanhkhach.h(52): warning C4715: 'KiemTraHanhKhachCungThoiDiem': not all control paths return a value
+  QuanLyMayBay.vcxproj -> E:\HocKyHe\QuanLyMayBay\Debug\QuanLyMayBay.exe

@@ -1,0 +1,29 @@
+﻿  Main.cpp
+e:\hockyhe\quanlychuyenbay\quanlymaybay\xulylt.h(2): warning C4005: 'MAX_TIME': macro redefinition
+  e:\hockyhe\quanlychuyenbay\quanlymaybay\ctdl.h(13): note: see previous definition of 'MAX_TIME'
+e:\hockyhe\quanlychuyenbay\quanlymaybay\xulylt.h(288): warning C4551: function call missing argument list
+e:\hockyhe\quanlychuyenbay\quanlymaybay\dohoa.h(6): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+e:\hockyhe\quanlychuyenbay\quanlymaybay\xulynhap.h(84): warning C4101: 'c': unreferenced local variable
+e:\hockyhe\quanlychuyenbay\quanlymaybay\thongke.h(475): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\hockyhe\quanlychuyenbay\quanlymaybay\chuyenbay.h(133): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\hockyhe\quanlychuyenbay\quanlymaybay\chuyenbay.h(299): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\hockyhe\quanlychuyenbay\quanlymaybay\chuyenbay.h(304): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\hockyhe\quanlychuyenbay\quanlymaybay\chuyenbay.h(93): warning C4101: 'NgayHienTai': unreferenced local variable
+e:\hockyhe\quanlychuyenbay\quanlymaybay\chuyenbay.h(94): warning C4101: 'GioHienTai': unreferenced local variable
+e:\hockyhe\quanlychuyenbay\quanlymaybay\chuyenbay.h(786): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\hockyhe\quanlychuyenbay\quanlymaybay\chuyenbay.h(791): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\hockyhe\quanlychuyenbay\quanlymaybay\chuyenbay.h(945): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\hockyhe\quanlychuyenbay\quanlymaybay\loadfile.h(61): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\hockyhe\quanlychuyenbay\quanlymaybay\maybay.h(18): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\hockyhe\quanlychuyenbay\quanlymaybay\maybay.h(32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\hockyhe\quanlychuyenbay\quanlymaybay\maybay.h(260): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\hockyhe\quanlychuyenbay\quanlymaybay\datve.h(414): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\hockyhe\quanlychuyenbay\quanlymaybay\datve.h(419): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\hockyhe\quanlychuyenbay\quanlymaybay\datve.h(339): warning C4102: 'b': unreferenced label
+e:\hockyhe\quanlychuyenbay\quanlymaybay\datve.h(623): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\hockyhe\quanlychuyenbay\quanlymaybay\datve.h(636): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\hockyhe\quanlychuyenbay\quanlymaybay\xulylt.h(39): warning C4715: 'Chuyen1SoSangKiTu': not all control paths return a value
+e:\hockyhe\quanlychuyenbay\quanlymaybay\xulylt.h(202): warning C4715: 'ChuyenThang': not all control paths return a value
+e:\hockyhe\quanlychuyenbay\quanlymaybay\thongke.h(98): warning C4715: 'LayThongTinKHTheoCMND': not all control paths return a value
+e:\hockyhe\quanlychuyenbay\quanlymaybay\hanhkhach.h(52): warning C4715: 'KiemTraHanhKhachCungThoiDiem': not all control paths return a value
+  QuanLyMayBay.vcxproj -> E:\HocKyHe\QuanLyChuyenBay\x64\Debug\QuanLyMayBay.exe
